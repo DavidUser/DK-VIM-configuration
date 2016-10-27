@@ -1,0 +1,2256 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.4.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/stone
+
+# Último padrão de busca  de substituição:
+~MSle0&/rh/linux
+
+# Última string de substituição:
+$/opt
+
+# Histórico de Linha de comando (mais recente primeiro):
+:q
+:x
+:set nofoldenable
+:q!
+:w
+:wq!
+:!man zypper install
+:set paste
+:w !sudo tee %
+:x!
+:$
+:set filetype markdown
+:%s#/rh/linux#/opt
+:e installation.sh
+:e build.sh
+:0
+:setfiletype=make
+:w !pandoc -o temp.html
+:w | !pandoc -o temp.html
+:! pandoc % -o temp.html
+
+# Histórico de Expressões de busca (mais recente primeiro):
+? \<Dokerfiles\>
+?/stone
+?/\.\.\.
+?/* ...
+?/"..."
+?/...
+??w
+?/*
+?/nunca
+?/home
+? /rh/linux
+? \<E3CBFEC86BBE13DE25CFE820DDCE423749B55122FA1911257E5096C5427C48019EF710C15CD03898B496A92EBE6DE613CE76B4787F9C7E3F90303C4E385458F330085A1A8FEE4D9B8371A89D294731DFBFE41965ADDE6F36\>
+?/color
+?/dev
+?/ami
+?/172
+?/localhost
+?/more
+? _
+?/86
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+"0	LINE	0
+	RUN zypper install g++ -y
+""1	LINE	0
+	
+"2	LINE	0
+	CMD /bin/bash
+"3	LINE	0
+	
+"4	LINE	0
+	ENV HOME /home/developer
+"5	LINE	0
+	USER developer
+"6	LINE	0
+	RUN sudo systemctl start rabbitmq-server.service
+"7	LINE	0
+	RUN sudo systemctl start rabbitmq-server.service
+"8	LINE	0
+	
+"9	LINE	0
+	RUN zypper install ssh
+"a	CHAR	0
+	9byw9wPbj
+"k	CHAR	0
+	jjjjjjjj
+"q@	CHAR	0
+	i*jjwwbwhi*jjl
+"w	CHAR	0
+	jj
+"y	CHAR	0
+	# Resumo
+	E
+"-	CHAR	0
+	sudo 
+
+# Marcas nos arquivos:
+'0  21  9  ~/.ssh/config
+'1  9  18  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+'2  1  19  ~/main.cpp
+'3  4  58  ~/DK-VIM-configuration/README.md
+'4  349  0  ~/.vim/autoload/pathogen.vim
+'5  10  0  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+'6  5  46  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+'7  10  0  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+'8  10  23  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+'9  5  13  ~/passwords/pucrio.pwd
+
+# Lista de saltos (mais recente primeiro):
+-'  21  9  ~/.ssh/config
+-'  45  9  ~/.ssh/config
+-'  9  18  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+-'  6  4  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+-'  10  0  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+-'  1  19  ~/main.cpp
+-'  4  58  ~/DK-VIM-configuration/README.md
+-'  1  0  ~/DK-VIM-configuration/README.md
+-'  349  0  ~/.vim/autoload/pathogen.vim
+-'  1  0  ~/.vim/autoload/pathogen.vim
+-'  5  46  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+-'  2  0  ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+-'  5  13  ~/passwords/pucrio.pwd
+-'  1  16  ~/passwords/pucrio.pwd
+-'  16  19  ~/stone/dockerfiles/ubuntu_with_gui.dockerfile
+-'  1  0  ~/stone/dockerfiles/ubuntu_with_gui.dockerfile
+-'  2  14  ~/passwords/pucrio.pwd
+-'  15  19  ~/dockerfiles/ubuntu_with_GUI.Dockerfile
+-'  1  0  ~/dockerfiles/ubuntu_with_GUI.Dockerfile
+-'  14  0  ~/dockerfiles/ubuntu_with_gui.dockerfile
+-'  1  0  ~/hacking/scripts/wpa2discovery.sh
+-'  17  0  ~/.ssh/config
+-'  15  12  ~/.ssh/config
+-'  40  12  ~/.ssh/config
+-'  6  174  ~/Documents/erica/IHC/questionário do coordenador
+-'  70  56  ~/Documents/erica/IHC/questionário do coordenador
+-'  52  57  ~/Documents/erica/IHC/questionário do coordenador
+-'  43  53  ~/Documents/erica/IHC/questionário do coordenador
+-'  97  0  ~/Documents/erica/IHC/questionário do coordenador
+-'  94  6  ~/Documents/erica/IHC/questionário do coordenador
+-'  93  1  ~/Documents/erica/IHC/questionário do coordenador
+-'  85  25  ~/Documents/erica/IHC/questionário do coordenador
+-'  57  0  ~/Documents/erica/IHC/questionário do coordenador
+-'  10  8  ~/Unique-System-Visual-Documentation/README.md
+-'  1  0  ~/Documents/erica/IHC/questionário do coordenador
+-'  45  0  ~/questionário do coordenador
+-'  1  0  ~/questionário do coordenador
+-'  15  0  ~/questionário do coordenador.docx
+-'  25  0  ~/questionário do coordenador.docx
+-'  29  0  ~/questionário do coordenador.docx
+-'  2  0  ~/stherTCC.md
+-'  49  0  ~/stherTCC.md
+-'  45  0  ~/stherTCC.md
+-'  47  0  ~/stherTCC.md
+-'  35  106  ~/stherTCC.md
+-'  36  4  ~/stherTCC.md
+-'  21  0  ~/stherTCC.md
+-'  4  0  ~/stherTCC.md
+-'  5  0  ~/stherTCC.md
+-'  3  182  ~/stherTCC.md
+-'  1  0  ~/stherTCC.md
+-'  1  11  ~/stherTCC.txt
+-'  2  12  /opt/RepetierHost/Repetier-Host.desktop
+-'  11  0  /opt/RepetierHost/Repetier-Host.desktop
+-'  1  0  /opt/RepetierHost/Repetier-Host.desktop
+-'  1  0  /var/tmp/mkdir.XX391zRK
+-'  1  0  ~/.ssh
+-'  1  0  /mnt/.ssh
+-'  2  28  ~/stone/transactionsearch/RESTMessages/Login/responseGenerated.json
+-'  1  0  ~/stone/transactionsearch/RESTMessages/Login/responseGenerated.json
+-'  29  2  ~/stone/transactionsearch/RESTMessages/Login/doRequest.sh
+-'  1  0  ~/stone/transactionsearch/RESTMessages/Login/doRequest.sh
+-'  7  4  ~/stone/transaction-consistency-investigator/readme
+-'  1  0  ~/stone/transaction-consistency-investigator/readme
+-'  7  56  ~/stone/transaction-consistency-investigator/what
+-'  6  16  ~/stone/transaction-consistency-investigator/what
+-'  6  36  ~/stone/transaction-consistency-investigator/how
+-'  2  49  ~/stone/transaction-consistency-investigator/what
+-'  1  0  ~/stone/transaction-consistency-investigator/how
+-'  1  0  ~/stone/transaction-consistency-investigator/what
+-'  301  0  /opt/Telegram/tdesktop/Telegram/Telegram.pro
+-'  1  0  /opt/Telegram/tdesktop/Telegram/Telegram.pro
+-'  1  14  /opt/Telegram/tdesktop/installation.sh
+-'  1  14  /opt/Telegram/tdesktop/build.sh
+-'  1  14  /opt/Telegram/tdesktop/config.sh
+-'  6  0  /opt/Telegram/tdesktop/build.sh
+-'  65  11  /opt/Telegram/tdesktop/config.sh
+-'  1  0  /opt/Telegram/tdesktop/linux-build/config.sh
+-'  65  0  /opt/Telegram/tdesktop/linux-build/config.sh
+-'  1  0  /opt/Telegram/tdesktop/linux-build/makefile
+-'  10  13  /opt/Telegram/tdesktop/linux-build/makefile
+-'  2  12  /opt/Telegram/tdesktop/linux-build/makefile
+-'  66  16  /opt/Telegram/tdesktop/linux-build/config.sh
+-'  2  9  /opt/Telegram/tdesktop/linux-build/config.sh
+-'  5  29  /opt/Telegram/tdesktop/linux-build/readme.md
+-'  1  0  /opt/Telegram/tdesktop/linux-build/readme.md
+-'  3  0  /opt/Telegram/tdesktop/linux-build/build.sh
+-'  1  0  /opt/Telegram/tdesktop/linux-build/build.sh
+-'  11  0  /opt/Telegram/tdesktop/config.sh
+-'  9  0  /opt/tdesktop/makefile
+-'  1  0  /opt/tdesktop/makefile
+-'  1  10  /opt/tdesktop/make
+-'  39  3  /opt/tdesktop/build.sh
+-'  16  3  /opt/tdesktop/installation.sh
+-'  42  44  /opt/tdesktop/config.sh
+-'  1  9  /opt/tdesktop/installation.sh
+-'  19  119  ~/stone/message-validator-consumer/README.md
+-'  21  3  ~/stone/message-validator-consumer/README.md
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/.ssh/config
+	"	21	9
+	^	44	10
+	.	44	10
+	+	14	14
+	+	32	1
+	+	29	16
+	+	32	0
+	+	30	22
+	+	29	16
+	+	32	0
+	+	31	1
+	+	5	0
+	+	4	8
+	+	31	7
+	+	25	0
+	+	28	0
+	+	25	13
+	+	28	0
+	+	27	2
+	+	28	0
+	+	25	17
+	+	35	48
+	+	36	12
+	+	32	0
+	+	15	0
+	+	39	10
+	+	39	87
+	+	39	0
+	+	39	0
+	+	39	32
+	+	39	0
+	+	38	18
+	+	39	9
+	+	40	12
+	+	13	21
+	+	17	0
+	+	17	0
+	+	18	11
+	+	20	10
+	+	22	12
+	+	24	0
+	+	23	11
+	+	16	10
+	+	23	12
+	+	16	12
+	+	23	12
+	+	39	1
+	+	39	23
+	+	40	0
+	+	39	1
+	+	38	18
+	+	41	0
+	+	42	27
+	+	44	10
+
+> ~/stone/message-validator-consumer/README.md
+	"	19	119
+	^	19	120
+	.	20	0
+	+	21	0
+	+	20	0
+	+	19	135
+	+	20	0
+
+> ~/stone/message-validator-consumer/readme.md
+	"	3	37
+	^	3	38
+	.	3	37
+	+	20	0
+	+	17	29
+	+	18	6
+	+	16	13
+	+	17	0
+	+	16	13
+	+	17	6
+	+	18	9
+	+	17	0
+	+	20	0
+	+	18	8
+	+	17	16
+	+	18	16
+	+	17	16
+	+	18	9
+	+	17	9
+	+	16	16
+	+	20	0
+	+	5	6
+	+	7	86
+	+	1	0
+	+	11	28
+	+	12	20
+	+	12	0
+	+	12	0
+	+	11	32
+	+	3	37
+
+> ~/stone/message-validator-consumer/Dockerfiles/rabbitmq-broker/Dockerfile
+	"	1	0
+
+> ~/stone/dockerfiles/opensuse_mq_cpp/Dockerfile
+	"	9	18
+	^	9	19
+	.	9	18
+	+	5	44
+	+	5	19
+	+	5	82
+	+	10	0
+	+	10	25
+	+	5	16
+	+	5	42
+	+	5	82
+	+	10	0
+	+	5	40
+	+	5	69
+	+	5	19
+	+	5	49
+	+	10	0
+	+	10	34
+	+	5	46
+	+	10	42
+	+	1	0
+	+	3	53
+	+	10	0
+	+	10	0
+	+	10	24
+	+	10	3
+	+	10	46
+	+	10	0
+	+	10	0
+	+	7	0
+	+	10	0
+	+	9	18
+
+> ~/c++Tests/test/main.cpp
+	"	5	0
+	^	5	0
+	.	5	0
+	+	1	19
+	+	3	0
+	+	4	19
+	+	6	1
+	+	8	0
+	+	5	0
+
+> ~/c++Tests/auto/main.cpp
+	"	16	6
+	^	16	6
+	.	19	0
+	+	10	0
+	+	16	0
+	+	19	0
+	+	16	0
+	+	19	0
+
+> ~/main.cpp
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> ~/DK-VIM-configuration/README.md
+	"	4	58
+	^	4	59
+	.	4	58
+	+	4	58
+
+> ~/.vim/autoload/pathogen.vim
+	"	349	0
+
+> ~/passwords/pucrio.pwd
+	"	5	13
+	^	5	14
+	.	5	13
+	+	1	17
+	+	2	15
+	+	1	17
+	+	2	14
+	+	1	16
+	+	2	0
+	+	4	6
+	+	5	6
+	+	4	16
+	+	5	13
+
+> ~/stone/dockerfiles/ubuntu_with_gui.dockerfile
+	"	16	19
+	^	16	20
+	.	16	19
+	+	16	19
+
+> ~/dockerfiles/ubuntu_with_GUI.Dockerfile
+	"	15	19
+	^	16	20
+	.	16	19
+	+	16	19
+
+> ~/dockerfiles/ubuntu_with_gui.dockerfile
+	"	14	0
+	.	16	0
+	+	1	18
+	+	16	0
+
+> ~/hacking/scripts/wpa2discovery.sh
+	"	1	0
+
+> ~/Documents/erica/IHC/questionário do coordenador
+	"	6	174
+	^	70	57
+	.	70	56
+	+	43	4
+	+	48	0
+	+	49	64
+	+	50	0
+	+	52	4
+	+	55	81
+	+	58	46
+	+	61	47
+	+	64	1
+	+	61	241
+	+	64	0
+	+	61	223
+	+	64	66
+	+	67	72
+	+	70	4
+	+	76	1
+	+	72	0
+	+	77	0
+	+	76	69
+	+	79	74
+	+	82	75
+	+	85	1
+	+	85	0
+	+	86	0
+	+	85	55
+	+	96	8
+	+	88	109
+	+	91	102
+	+	95	0
+	+	91	102
+	+	94	31
+	+	97	78
+	+	100	45
+	+	103	61
+	+	106	59
+	+	107	0
+	+	109	81
+	+	112	76
+	+	113	0
+	+	43	53
+	+	52	57
+	+	70	56
+
+> ~/Unique-System-Visual-Documentation/README.md
+	"	10	8
+	^	10	9
+	.	4	10
+	+	1	22
+	+	5	47
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	6	46
+	+	9	0
+	+	9	0
+	+	9	0
+	+	8	0
+	+	8	0
+	+	8	0
+	+	7	50
+	+	9	27
+	+	10	40
+	+	9	28
+	+	8	46
+	+	7	51
+	+	6	0
+	+	5	0
+	+	8	46
+	+	7	51
+	+	6	46
+	+	5	48
+	+	10	7
+	+	10	6
+	+	10	0
+	+	4	10
+
+> ~/questionário do coordenador
+	"	45	0
+
+> ~/questionário do coordenador.docx
+	"	15	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> zipfile:/home/david/questionário do coordenador.docx::word/document.xml
+	"	2	2421
+
+> ~/stherTCC.md
+	"	2	0
+	^	2	0
+	.	49	0
+	+	2	0
+	+	1	0
+	+	3	86
+	+	3	110
+	+	3	203
+	+	3	26
+	+	3	0
+	+	3	0
+	+	4	0
+	+	4	145
+	+	15	27
+	+	6	128
+	+	6	56
+	+	15	376
+	+	9	222
+	+	10	254
+	+	13	114
+	+	22	13
+	+	21	0
+	+	17	1
+	+	20	0
+	+	19	200
+	+	17	45
+	+	24	117
+	+	24	115
+	+	22	15
+	+	24	33
+	+	24	117
+	+	24	261
+	+	24	176
+	+	49	10
+	+	46	16
+	+	49	3
+	+	26	1
+	+	27	0
+	+	30	0
+	+	31	75
+	+	33	335
+	+	37	116
+	+	38	83
+	+	37	115
+	+	39	281
+	+	45	0
+	+	35	160
+	+	35	105
+	+	35	0
+	+	35	0
+	+	35	0
+	+	35	0
+	+	36	23
+	+	37	0
+	+	36	0
+	+	35	119
+	+	35	0
+	+	35	0
+	+	35	181
+	+	40	139
+	+	46	3
+	+	47	0
+	+	47	0
+	+	37	0
+	+	29	152
+	+	47	0
+	+	45	0
+	+	44	244
+	+	49	2
+	+	46	2
+	+	49	1
+	+	49	1
+	+	49	0
+	+	49	0
+	+	49	0
+	+	49	12
+	+	49	12
+	+	49	0
+	+	49	0
+	+	49	0
+
+> ~/stherTCC.txt
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> /opt/RepetierHost/Repetier-Host.desktop
+	"	2	12
+	^	2	13
+	.	2	12
+	+	1	0
+	+	3	0
+	+	11	0
+	+	2	12
+
+> /var/tmp/mkdir.XX391zRK
+	"	1	0
+
+> /mnt/.ssh
+	"	1	0
+
+> ~/stone/transactionsearch/RESTMessages/Login/responseGenerated.json
+	"	2	28
+	.	2	0
+	+	2	0
+
+> ~/stone/transactionsearch/RESTMessages/Login/doRequest.sh
+	"	29	2
+	^	29	3
+	.	29	2
+	+	31	0
+	+	29	2
+
+> ~/stone/transactionsearch/RESTMessages/Login/requestLogin.json
+	"	1	0
+
+> ~/stone/transaction-consistency-investigator/readme
+	"	7	4
+	^	4	2
+	.	4	1
+	+	1	111
+	+	3	2
+	+	1	85
+	+	4	60
+	+	8	2
+	+	7	0
+	+	8	0
+	+	6	83
+	+	7	0
+	+	6	2
+	+	4	1
+
+> ~/stone/transaction-consistency-investigator/what
+	"	7	56
+	^	7	57
+	.	7	56
+	+	2	2
+	+	1	1
+	+	2	0
+	+	1	52
+	+	8	0
+	+	4	22
+	+	3	0
+	+	4	88
+	+	6	101
+	+	5	70
+	+	6	102
+	+	4	22
+	+	8	0
+	+	8	0
+	+	4	0
+	+	5	19
+	+	7	56
+
+> ~/stone/transaction-consistency-investigator/how
+	"	6	36
+	^	6	37
+	.	6	36
+	+	1	1
+	+	2	1
+	+	1	2
+	+	15	0
+	+	2	12
+	+	3	19
+	+	4	15
+	+	15	0
+	+	7	0
+	+	6	36
+
+> /opt/Telegram/tdesktop/Telegram/Telegram.pro
+	"	301	0
+
+> /opt/Telegram/tdesktop/build.sh
+	"	1	14
+	^	1	15
+	.	1	15
+	+	6	0
+	+	1	0
+	+	1	15
+
+> /opt/Telegram/tdesktop/installation.sh
+	"	1	14
+	^	1	15
+	.	1	15
+	+	1	15
+
+> /opt/Telegram/tdesktop/config.sh
+	"	1	14
+	^	1	15
+	.	1	15
+	+	8	0
+	+	11	0
+	+	10	0
+	+	21	11
+	+	10	11
+	+	1	0
+	+	2	0
+	+	3	0
+	+	1	15
+
+> /opt/Telegram/tdesktop/linux-build/config.sh
+	"	1	0
+	.	1	0
+	+	1	17
+	+	66	6
+	+	66	0
+	+	1	0
+
+> /opt/Telegram/tdesktop/linux-build/makefile
+	"	1	0
+	.	1	0
+	+	2	12
+	+	3	18
+	+	7	15
+	+	11	19
+	+	1	0
+
+> /opt/Telegram/tdesktop/linux-build/readme.md
+	"	5	29
+	^	5	30
+	.	5	29
+	+	3	1
+	+	1	47
+	+	4	2
+	+	3	35
+	+	5	29
+
+> /opt/Telegram/tdesktop/linux-build/build.sh
+	"	3	0
+
+> /opt/tdesktop/makefile
+	"	9	0
+	^	10	17
+	.	10	16
+	+	14	0
+	+	8	13
+	+	4	20
+	+	7	21
+	+	10	16
+
+> /opt/tdesktop/make
+	"	1	10
+	^	1	11
+	.	1	10
+	+	2	0
+	+	1	10
+
+> /opt/tdesktop/build.sh
+	"	39	3
+	^	39	4
+	.	40	0
+	+	40	0
+
+> /opt/tdesktop/installation.sh
+	"	16	3
+	^	16	4
+	.	16	3
+	+	1	32
+	+	16	3
+
+> /opt/tdesktop/config.sh
+	"	42	44
+	^	42	45
+	.	42	45
+	+	1	13
+	+	43	0
+	+	2	9
+	+	1	10
+	+	3	10
+	+	9	112
+	+	3	9
+	+	1	8
+	+	8	82
+	+	7	10
+	+	9	217
+	+	9	25
+	+	10	88
+	+	10	19
+	+	9	30
+	+	43	0
+	+	42	45
+
+> /etc/fonts/conf.d/30-metric-aliases.conf
+	"	110	0
+
+> ~/stone/transactionsearch/.git/COMMIT_EDITMSG
+	"	1	20
+	^	1	6
+	.	1	5
+	+	1	5
+	+	2	42
+	+	2	98
+	+	1	37
+	+	2	0
+	+	2	42
+	+	4	0
+	+	3	0
+	+	4	0
+	+	1	5
+
+> ~/stone/transactionsearch/readme.md
+	"	6	0
+	^	6	0
+	.	6	0
+	+	19	0
+	+	16	42
+	+	19	1
+	+	16	42
+	+	20	1
+	+	19	27
+	+	20	0
+	+	20	0
+	+	20	0
+	+	28	0
+	+	43	0
+	+	28	0
+	+	43	0
+	+	43	0
+	+	43	1
+	+	43	18
+	+	43	24
+	+	43	17
+	+	31	7
+	+	43	0
+	+	26	14
+	+	33	70
+	+	34	35
+	+	36	214
+	+	34	88
+	+	35	0
+	+	38	3
+	+	36	300
+	+	36	177
+	+	36	314
+	+	34	89
+	+	36	343
+	+	38	140
+	+	39	85
+	+	41	139
+	+	42	374
+	+	3	0
+	+	12	0
+	+	10	24
+	+	11	0
+	+	6	0
+
+> ~/stone/transactionsearch/.git/MERGE_MSG
+	"	1	0
+
+> /opt/Visual_Paradigm_CE_13.1/Visual_Paradigm_13.2.desktop
+	"	5	4
+	^	5	5
+	.	5	5
+	+	5	5
+
+> ~/TODO.md
+	"	7	73
+	^	8	78
+	.	8	77
+	+	1	35
+	+	3	17
+	+	13	65
+	+	16	12
+	+	15	40
+	+	16	1
+	+	15	1
+	+	16	13
+	+	16	14
+	+	16	1
+	+	16	0
+	+	15	0
+	+	16	0
+	+	16	14
+	+	15	36
+	+	16	13
+	+	16	14
+	+	16	0
+	+	21	25
+	+	20	12
+	+	32	2
+	+	29	0
+	+	56	28
+	+	55	34
+	+	54	56
+	+	53	42
+	+	65	14
+	+	106	0
+	+	53	0
+	+	77	24
+	+	75	28
+	+	89	2
+	+	87	3
+	+	88	2
+	+	87	19
+	+	106	0
+	+	93	34
+	+	96	61
+	+	106	0
+	+	102	2
+	+	98	0
+	+	100	0
+	+	102	31
+	+	103	0
+	+	101	0
+	+	106	0
+	+	6	12
+	+	7	0
+	+	8	77
+
+> ~/stone/universalParser/readme.md
+	"	3	56
+	^	3	57
+	.	3	56
+	+	6	36
+	+	1	12
+	+	3	56
+
+> ~/TODO
+	"	1	0
+
+> ~/cSharpTests/datatypes/main.cs
+	"	1	0
+
+> ~/stone/stone-process/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/stone/stone-process/readme.md
+	"	1	0
+
+> ~/stone/stone-process/readme
+	"	2	96
+	^	2	97
+	.	2	96
+	+	2	96
+
+> ~/stone/stone-process/.gitignore
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> ~/.bashrc
+	"	57	45
+	^	57	46
+	.	57	45
+	+	58	27
+	+	57	45
+
+> /opt/forticlientsslvpn/64bit/helper/setup.linux.sh
+	"	78	0
+
+> /opt/forticlientsslvpn/64bit/helper/config
+	"	1	0
+
+> ~/stone/keyManager/Dockerfile
+	"	1	0
+	^	2	0
+	.	3	0
+	+	5	0
+	+	3	0
+
+> ~/.ssh/known_hosts
+	"	21	0
+	.	21	0
+	+	21	0
+	+	1	0
+	+	21	0
+
+> ~/stone/transactionsearch/RESTMessages/GetTransactionByATK/doRequest.sh
+	"	28	0
+
+> ~/stone/universalParser/tokenize.py
+	"	63	10
+	.	34	0
+	+	1	9
+	+	2	3
+	+	28	42
+	+	27	4
+	+	26	15
+	+	27	25
+	+	28	0
+	+	1	0
+	+	1	0
+	+	28	14
+	+	1	0
+	+	2	0
+	+	2	0
+	+	2	13
+	+	2	11
+	+	6	27
+	+	6	20
+	+	6	47
+	+	6	0
+	+	2	0
+	+	32	0
+	+	25	0
+	+	32	0
+	+	32	0
+	+	32	16
+	+	32	12
+	+	42	13
+	+	36	0
+	+	38	12
+	+	36	24
+	+	36	40
+	+	32	19
+	+	38	35
+	+	40	15
+	+	32	33
+	+	32	23
+	+	42	2
+	+	32	34
+	+	28	0
+	+	2	0
+	+	1	9
+	+	2	16
+	+	2	17
+	+	26	0
+	+	32	0
+	+	30	63
+	+	32	0
+	+	42	2
+	+	1	0
+	+	2	0
+	+	32	0
+	+	36	43
+	+	38	37
+	+	30	12
+	+	32	5
+	+	32	10
+	+	32	20
+	+	32	12
+	+	32	15
+	+	32	0
+	+	38	12
+	+	41	0
+	+	41	10
+	+	41	24
+	+	41	0
+	+	36	0
+	+	36	13
+	+	36	0
+	+	36	22
+	+	25	0
+	+	33	0
+	+	25	0
+	+	23	24
+	+	25	0
+	+	33	0
+	+	23	0
+	+	36	21
+	+	36	24
+	+	36	40
+	+	23	5
+	+	22	21
+	+	44	0
+	+	35	24
+	+	36	0
+	+	36	0
+	+	23	45
+	+	36	0
+	+	29	0
+	+	42	2
+	+	32	16
+	+	38	14
+	+	38	12
+	+	40	15
+	+	38	0
+	+	41	0
+	+	38	0
+	+	37	48
+	+	35	0
+	+	41	2
+	+	34	0
+
+> ~/stone/universalParser/fields.py
+	"	3	72
+	^	3	73
+	.	3	72
+	+	1	15
+	+	31	0
+	+	3	0
+	+	11	0
+	+	14	0
+	+	1	21
+	+	31	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	31	0
+	+	31	0
+	+	31	0
+	+	27	26
+	+	14	45
+	+	15	14
+	+	30	37
+	+	3	68
+	+	11	59
+	+	11	34
+	+	9	18
+	+	9	0
+	+	7	53
+	+	17	0
+	+	16	0
+	+	8	0
+	+	19	59
+	+	26	0
+	+	20	0
+	+	22	0
+	+	23	0
+	+	3	72
+
+> ~/stone/keyManagerContainer/Main.java
+	"	5	0
+	^	5	1
+	.	5	0
+	+	1	19
+	+	2	0
+	+	2	0
+	+	3	33
+	+	5	0
+
+> ~/stone/keyManagerContainer/readme.md
+	"	5	47
+	^	5	48
+	.	6	0
+	+	2	0
+	+	1	0
+	+	3	50
+	+	6	0
+	+	5	35
+	+	5	48
+	+	6	0
+
+> ~/Dockerfile/apache2/Dockerfile
+	"	1	13
+	^	1	14
+	.	1	14
+	+	1	14
+
+> ~/stone/transactionsearch/RESTMessages/doRequest.sh
+	"	9	34
+	^	9	35
+	.	9	35
+	+	6	33
+	+	9	35
+
+> ~/Dockerfile/Dockerfile
+	"	3	61
+	^	3	62
+	.	3	61
+	+	3	61
+
+> ~/Dockerfile/apache/Dockerfile
+	"	1	0
+
+> ~/stone/stoneCommonSQLQueries/SQLQuery5.sql
+	"	130	0
+	^	131	2
+	.	131	1
+	+	110	55
+	+	110	55
+	+	110	55
+	+	110	37
+	+	110	35
+	+	1	13
+	+	131	2
+	+	1	14
+	+	129	30
+	+	1	13
+	+	129	29
+	+	131	1
+
+> /etc/unixODBC/odbcinst.ini
+	"	1	29
+
+> /etc/unixODBC/odbc.ini
+	"	2	7
+	^	5	3
+	.	2	7
+	+	1	12
+	+	7	36
+	+	3	11
+	+	2	5
+	+	4	11
+	+	7	25
+	+	9	0
+	+	4	20
+	+	1	0
+	+	6	9
+	+	5	2
+	+	4	9
+	+	3	5
+	+	2	7
+
+> /etc/freetds.conf
+	"	1	8
+	^	44	13
+	.	44	12
+	+	45	17
+	+	41	20
+	+	43	20
+	+	44	12
+
+> ~/stone/universalParser/main.py
+	"	49	38
+	^	49	39
+	.	50	0
+	+	15	34
+	+	21	28
+	+	20	7
+	+	15	26
+	+	21	10
+	+	8	0
+	+	7	14
+	+	14	46
+	+	7	0
+	+	4	0
+	+	6	0
+	+	2	2
+	+	5	2
+	+	14	48
+	+	13	0
+	+	3	0
+	+	1	1
+	+	20	64
+	+	50	12
+	+	20	5
+	+	21	0
+	+	20	61
+	+	50	0
+	+	19	15
+	+	18	0
+	+	19	6
+	+	17	10
+	+	20	21
+	+	17	11
+	+	19	15
+	+	20	28
+	+	19	22
+	+	20	6
+	+	19	13
+	+	20	30
+	+	21	0
+	+	21	0
+	+	50	0
+	+	22	39
+	+	20	29
+	+	50	0
+	+	37	20
+	+	37	13
+	+	30	44
+	+	37	0
+	+	37	35
+	+	28	10
+	+	37	0
+	+	28	4
+	+	27	0
+	+	28	0
+	+	30	33
+	+	37	0
+	+	31	4
+	+	26	36
+	+	31	70
+	+	33	0
+	+	34	23
+	+	37	0
+	+	39	39
+	+	30	34
+	+	32	37
+	+	30	0
+	+	32	39
+	+	37	0
+	+	34	0
+	+	29	17
+	+	32	35
+	+	21	0
+	+	21	0
+	+	24	19
+	+	34	0
+	+	35	0
+	+	37	22
+	+	24	6
+	+	35	8
+	+	42	34
+	+	46	43
+	+	45	9
+	+	47	24
+	+	49	35
+	+	42	34
+	+	46	25
+	+	42	43
+	+	43	0
+	+	39	8
+	+	40	24
+	+	39	18
+	+	40	26
+	+	49	45
+	+	42	25
+	+	47	8
+	+	49	27
+	+	17	19
+	+	46	24
+	+	42	0
+	+	46	29
+	+	42	0
+	+	46	15
+	+	50	0
+
+> ~/stone/transactionsearch/TelaParaConsulta/UI/QueryScreen.cs
+	"	217	12
+	.	217	0
+	+	209	0
+	+	210	0
+	+	215	0
+	+	217	0
+
+> ~/stone/transactionsearch/TelaParaConsulta/UI/QueryScreen.Designer.cs
+	"	5	12
+	.	442	0
+	+	235	0
+	+	239	0
+	+	438	0
+	+	442	0
+
+> ~/stone/transactionsearch/TelaParaConsulta/UI/QueryScreen.resx
+	"	63	0
+
+> ~/stone/transactionsearch/.git/rebase-merge/git-rebase-todo
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	3
+	+	2	67
+	+	1	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testeErica/exemplo.lua
+	"	1	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/main.lua
+	"	701	2
+	^	625	0
+	.	36	0
+	+	3	0
+	+	2	0
+	+	439	0
+	+	439	0
+	+	439	0
+	+	439	0
+	+	439	0
+	+	439	49
+	+	439	0
+	+	439	22
+	+	422	19
+	+	422	15
+	+	34	0
+	+	34	0
+	+	422	47
+	+	422	0
+	+	1	0
+	+	34	0
+	+	34	0
+	+	402	0
+	+	408	0
+	+	408	0
+	+	422	0
+	+	422	0
+	+	422	0
+	+	440	0
+	+	1	0
+	+	406	0
+	+	13	0
+	+	13	0
+	+	34	45
+	+	269	36
+	+	271	36
+	+	273	36
+	+	422	58
+	+	430	54
+	+	34	0
+	+	34	0
+	+	421	0
+	+	423	0
+	+	443	0
+	+	446	0
+	+	454	0
+	+	471	0
+	+	484	0
+	+	487	0
+	+	484	37
+	+	487	17
+	+	484	0
+	+	484	0
+	+	484	0
+	+	484	0
+	+	484	0
+	+	487	0
+	+	484	0
+	+	484	6
+	+	484	70
+	+	485	0
+	+	486	0
+	+	487	0
+	+	34	0
+	+	625	4
+	+	556	0
+	+	556	0
+	+	556	70
+	+	79	4
+	+	79	0
+	+	79	25
+	+	79	3
+	+	79	0
+	+	79	0
+	+	77	35
+	+	79	0
+	+	77	57
+	+	79	23
+	+	77	24
+	+	79	0
+	+	79	0
+	+	77	35
+	+	78	0
+	+	108	0
+	+	34	0
+	+	35	0
+	+	92	0
+	+	444	0
+	+	453	0
+	+	557	0
+	+	590	0
+	+	612	0
+	+	615	0
+	+	625	4
+	+	625	4
+	+	626	0
+	+	625	0
+	+	759	0
+	+	9	0
+	+	759	0
+	+	90	0
+	+	90	0
+	+	36	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testeErica/main.lua
+	"	19	21
+	^	19	22
+	.	19	21
+	+	121	13
+	+	1	0
+	+	2	0
+	+	1	19
+	+	9	0
+	+	22	0
+	+	23	0
+	+	22	19
+	+	26	0
+	+	27	0
+	+	26	22
+	+	16	69
+	+	17	0
+	+	23	15
+	+	2	45
+	+	16	35
+	+	23	5
+	+	19	21
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/.git/COMMIT_EDITMSG
+	"	1	0
+	^	1	0
+	.	3	64
+	+	1	50
+	+	2	0
+	+	4	8
+	+	3	64
+
+> /usr/share/vim/vim74/doc/change.txt
+	"	199	10
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/menu.lua
+	"	1	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/scoreslib.lua
+	"	1	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/Personagem.lua
+	"	44	2
+	^	52	3
+	.	52	2
+	+	12	32
+	+	13	32
+	+	14	28
+	+	15	30
+	+	28	0
+	+	1	14
+	+	25	26
+	+	53	0
+	+	53	0
+	+	32	0
+	+	36	0
+	+	32	29
+	+	36	28
+	+	33	1
+	+	36	0
+	+	33	0
+	+	34	0
+	+	33	10
+	+	34	0
+	+	33	0
+	+	22	42
+	+	7	24
+	+	35	0
+	+	8	0
+	+	8	0
+	+	40	2
+	+	39	39
+	+	38	34
+	+	39	0
+	+	39	0
+	+	39	0
+	+	38	35
+	+	42	0
+	+	43	0
+	+	42	35
+	+	43	40
+	+	52	2
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/main.lua
+	"	50	3
+	^	40	17
+	.	40	16
+	+	49	0
+	+	48	31
+	+	90	34
+	+	63	39
+	+	47	36
+	+	70	31
+	+	81	0
+	+	74	0
+	+	72	11
+	+	90	22
+	+	68	18
+	+	70	30
+	+	74	1
+	+	71	2
+	+	68	19
+	+	73	2
+	+	90	1
+	+	73	2
+	+	63	39
+	+	92	0
+	+	108	0
+	+	92	29
+	+	108	0
+	+	108	0
+	+	108	18
+	+	92	27
+	+	108	0
+	+	94	0
+	+	95	0
+	+	94	13
+	+	108	0
+	+	95	1
+	+	94	12
+	+	95	28
+	+	108	0
+	+	94	0
+	+	97	0
+	+	98	0
+	+	97	13
+	+	98	31
+	+	100	0
+	+	101	0
+	+	100	13
+	+	101	28
+	+	102	31
+	+	90	0
+	+	90	0
+	+	90	2
+	+	47	36
+	+	100	12
+	+	102	0
+	+	102	0
+	+	93	1
+	+	107	1
+	+	103	12
+	+	105	31
+	+	90	1
+	+	32	23
+	+	30	0
+	+	46	0
+	+	47	0
+	+	45	0
+	+	31	20
+	+	37	18
+	+	33	12
+	+	34	12
+	+	35	10
+	+	36	11
+	+	37	10
+	+	42	0
+	+	39	10
+	+	50	36
+	+	50	0
+	+	50	32
+	+	50	0
+	+	50	13
+	+	43	27
+	+	62	0
+	+	53	0
+	+	61	0
+	+	53	41
+	+	61	1
+	+	61	0
+	+	61	0
+	+	50	0
+	+	54	0
+	+	90	29
+	+	40	16
+	+	89	27
+	+	77	7
+	+	76	9
+	+	80	44
+	+	90	0
+	+	89	25
+	+	49	0
+	+	66	0
+	+	65	27
+	+	40	15
+	+	63	39
+	+	40	16
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/Mundo.lua
+	"	60	16
+	^	68	34
+	.	68	33
+	+	18	36
+	+	21	34
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	21	0
+	+	20	36
+	+	10	13
+	+	12	0
+	+	31	0
+	+	31	0
+	+	12	0
+	+	20	26
+	+	19	21
+	+	31	0
+	+	31	0
+	+	39	0
+	+	41	0
+	+	39	11
+	+	42	0
+	+	40	0
+	+	41	0
+	+	40	0
+	+	39	8
+	+	17	57
+	+	18	35
+	+	17	10
+	+	39	19
+	+	19	7
+	+	39	15
+	+	19	7
+	+	39	15
+	+	19	64
+	+	47	0
+	+	48	0
+	+	47	30
+	+	50	0
+	+	55	0
+	+	50	32
+	+	55	0
+	+	55	0
+	+	55	0
+	+	55	0
+	+	55	38
+	+	55	0
+	+	55	0
+	+	55	54
+	+	47	34
+	+	55	0
+	+	50	16
+	+	51	0
+	+	52	0
+	+	52	17
+	+	49	27
+	+	54	0
+	+	52	41
+	+	53	41
+	+	62	15
+	+	62	0
+	+	57	0
+	+	58	0
+	+	58	11
+	+	61	0
+	+	61	0
+	+	59	1
+	+	62	0
+	+	60	1
+	+	61	0
+	+	62	0
+	+	46	34
+	+	73	0
+	+	73	51
+	+	73	35
+	+	73	27
+	+	73	39
+	+	73	40
+	+	73	51
+	+	73	0
+	+	73	0
+	+	73	9
+	+	73	13
+	+	73	43
+	+	73	0
+	+	11	57
+	+	65	42
+	+	66	2
+	+	69	0
+	+	70	0
+	+	69	43
+	+	70	21
+	+	68	34
+	+	72	2
+	+	64	17
+	+	68	33
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/Coisa.lua
+	"	102	0
+	^	7	9
+	.	7	8
+	+	37	38
+	+	40	0
+	+	37	0
+	+	37	0
+	+	36	2
+	+	39	0
+	+	43	0
+	+	47	27
+	+	52	0
+	+	51	0
+	+	51	28
+	+	47	0
+	+	51	0
+	+	34	31
+	+	35	31
+	+	39	5
+	+	43	5
+	+	47	5
+	+	51	5
+	+	39	6
+	+	43	6
+	+	47	6
+	+	51	6
+	+	47	6
+	+	43	6
+	+	39	5
+	+	51	0
+	+	34	0
+	+	51	2
+	+	47	2
+	+	43	2
+	+	39	2
+	+	34	20
+	+	36	0
+	+	34	31
+	+	35	31
+	+	34	0
+	+	36	0
+	+	39	1
+	+	43	1
+	+	47	1
+	+	51	5
+	+	47	5
+	+	43	5
+	+	39	5
+	+	87	0
+	+	83	0
+	+	84	0
+	+	83	40
+	+	84	14
+	+	82	50
+	+	87	5
+	+	87	5
+	+	91	0
+	+	87	0
+	+	91	0
+	+	90	0
+	+	90	0
+	+	95	0
+	+	91	0
+	+	88	0
+	+	87	1
+	+	86	0
+	+	82	19
+	+	82	25
+	+	82	19
+	+	82	25
+	+	82	0
+	+	83	24
+	+	83	0
+	+	84	0
+	+	87	0
+	+	98	0
+	+	88	40
+	+	91	44
+	+	93	24
+	+	62	0
+	+	104	0
+	+	54	0
+	+	8	8
+	+	54	28
+	+	8	0
+	+	55	27
+	+	55	0
+	+	55	23
+	+	55	27
+	+	55	16
+	+	55	26
+	+	54	32
+	+	55	27
+	+	59	0
+	+	55	0
+	+	55	4
+	+	19	0
+	+	8	0
+	+	6	6
+	+	55	0
+	+	59	0
+	+	55	0
+	+	7	8
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/Dinamica.lua
+	"	30	0
+	^	18	5
+	.	24	0
+	+	22	14
+	+	13	24
+	+	5	26
+	+	22	28
+	+	22	31
+	+	22	5
+	+	22	0
+	+	22	0
+	+	24	0
+	+	24	0
+	+	24	25
+	+	24	24
+	+	24	30
+	+	1	12
+	+	22	6
+	+	7	8
+	+	6	24
+	+	22	19
+	+	7	0
+	+	7	45
+	+	7	44
+	+	7	45
+	+	7	45
+	+	24	0
+	+	24	0
+	+	24	0
+	+	24	0
+	+	25	0
+	+	24	24
+	+	25	19
+	+	8	22
+	+	19	0
+	+	19	0
+	+	19	7
+	+	22	0
+	+	19	0
+	+	37	0
+	+	37	0
+	+	37	29
+	+	37	19
+	+	37	24
+	+	37	1
+	+	28	0
+	+	31	0
+	+	28	23
+	+	31	16
+	+	37	0
+	+	31	24
+	+	28	27
+	+	37	0
+	+	28	21
+	+	33	0
+	+	34	0
+	+	33	23
+	+	34	20
+	+	33	25
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	22	0
+	+	19	0
+	+	19	0
+	+	19	68
+	+	21	3
+	+	19	0
+	+	19	1
+	+	19	0
+	+	20	0
+	+	19	8
+	+	19	0
+	+	22	0
+	+	19	0
+	+	21	16
+	+	19	0
+	+	14	0
+	+	21	17
+	+	21	30
+	+	21	30
+	+	21	0
+	+	19	87
+	+	31	0
+	+	29	0
+	+	19	0
+	+	14	14
+	+	29	4
+	+	31	4
+	+	14	0
+	+	15	62
+	+	18	4
+	+	24	0
+	+	30	0
+	+	31	0
+	+	24	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/Animacao.lua
+	"	22	1
+	^	17	1
+	.	12	0
+	+	24	12
+	+	23	24
+	+	24	0
+	+	24	27
+	+	24	0
+	+	6	7
+	+	6	7
+	+	19	16
+	+	23	3
+	+	24	5
+	+	6	7
+	+	6	7
+	+	19	16
+	+	24	17
+	+	24	32
+	+	24	27
+	+	24	42
+	+	2	81
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	34
+	+	18	42
+	+	18	0
+	+	18	1
+	+	18	42
+	+	18	42
+	+	18	0
+	+	5	24
+	+	3	18
+	+	18	0
+	+	20	0
+	+	19	0
+	+	18	0
+	+	19	0
+	+	19	0
+	+	19	0
+	+	18	0
+	+	19	0
+	+	19	0
+	+	18	0
+	+	19	0
+	+	16	24
+	+	18	0
+	+	18	0
+	+	18	0
+	+	16	21
+	+	7	35
+	+	11	27
+	+	11	0
+	+	6	0
+	+	24	0
+	+	11	23
+	+	6	5
+	+	19	44
+	+	18	5
+	+	19	5
+	+	11	0
+	+	11	30
+	+	11	29
+	+	11	30
+	+	6	0
+	+	6	0
+	+	6	35
+	+	7	10
+	+	6	0
+	+	4	0
+	+	10	20
+	+	8	0
+	+	18	49
+	+	18	19
+	+	11	39
+	+	18	0
+	+	6	44
+	+	12	0
+	+	7	29
+	+	18	21
+	+	12	0
+	+	18	85
+	+	18	16
+	+	18	0
+	+	19	24
+	+	19	35
+	+	18	89
+	+	18	0
+	+	19	0
+	+	24	0
+	+	11	0
+	+	12	22
+	+	17	0
+	+	17	0
+	+	17	19
+	+	18	0
+	+	17	0
+	+	17	0
+	+	17	0
+	+	18	0
+	+	17	1
+	+	12	0
+
+> ~/luaTests/learXinYminutes/learn.lua
+	"	324	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/testaMundo.lua
+	"	18	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/Personagem.lua
+	"	26	32
+	^	18	26
+	.	18	25
+	+	6	0
+	+	22	0
+	+	6	33
+	+	22	0
+	+	17	9
+	+	4	17
+	+	3	72
+	+	17	18
+	+	4	23
+	+	21	29
+	+	18	1
+	+	17	1
+	+	24	16
+	+	1	21
+	+	6	68
+	+	13	25
+	+	15	0
+	+	7	27
+	+	16	39
+	+	9	0
+	+	4	32
+	+	6	2
+	+	24	3
+	+	6	0
+	+	24	0
+	+	23	0
+	+	5	0
+	+	4	23
+	+	26	0
+	+	27	0
+	+	26	42
+	+	27	55
+	+	30	0
+	+	30	0
+	+	30	0
+	+	7	0
+	+	9	1
+	+	8	19
+	+	9	0
+	+	14	0
+	+	6	25
+	+	7	0
+	+	6	33
+	+	9	23
+	+	10	23
+	+	11	21
+	+	12	22
+	+	13	21
+	+	17	6
+	+	18	1
+	+	17	6
+	+	18	6
+	+	17	25
+	+	18	25
+
+> /tmp/CGWLqT_Coisa.lua
+	"	63	0
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/Coisa.lua
+	"	63	0
+	^	111	19
+	.	111	0
+	+	50	0
+	+	49	41
+	+	50	42
+	+	32	0
+	+	53	0
+	+	32	28
+	+	53	0
+	+	53	0
+	+	53	21
+	+	53	0
+	+	57	0
+	+	53	17
+	+	57	29
+	+	53	14
+	+	57	60
+	+	55	0
+	+	54	26
+	+	56	29
+	+	117	0
+	+	117	0
+	+	117	0
+	+	117	0
+	+	117	0
+	+	117	32
+	+	117	0
+	+	60	0
+	+	59	0
+	+	93	0
+	+	117	0
+	+	80	0
+	+	93	12
+	+	94	40
+	+	98	0
+	+	98	0
+	+	117	0
+	+	117	0
+	+	117	0
+	+	92	0
+	+	92	0
+	+	86	0
+	+	91	35
+	+	92	0
+	+	81	3
+	+	87	27
+	+	81	21
+	+	117	0
+	+	117	0
+	+	117	0
+	+	117	0
+	+	117	2
+	+	118	58
+	+	118	0
+	+	117	2
+	+	118	1
+	+	117	0
+	+	118	0
+	+	117	11
+	+	116	38
+	+	15	7
+	+	23	16
+	+	15	7
+	+	23	0
+	+	15	0
+	+	14	7
+	+	118	0
+	+	118	0
+	+	118	29
+	+	118	0
+	+	111	0
+	+	112	0
+	+	111	29
+	+	112	7
+	+	111	19
+	+	112	32
+	+	113	45
+	+	115	0
+	+	115	0
+	+	115	33
+	+	115	9
+	+	115	0
+	+	115	0
+	+	115	0
+	+	115	0
+	+	115	9
+	+	111	23
+	+	115	26
+	+	115	0
+	+	115	0
+	+	115	0
+	+	115	37
+	+	115	0
+	+	115	0
+	+	115	0
+	+	115	0
+	+	111	0
+	+	111	0
+	+	111	30
+	+	111	0
+	+	115	0
+	+	111	0
+
+> ~/luaTests/love2d/hello/main.lua
+	"	8	0
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/Documents/erica/TheSamurayToast/SamuraiToast/testaMundo/$
+	"	1	0

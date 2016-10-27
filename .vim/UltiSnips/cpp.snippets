@@ -1,0 +1,12 @@
+extends autoclose
+
+snippet fit "for with explicity iterator" b
+for (${2:auto} it = $1.begin(); it != $1.end(); ++it){
+	$3
+}
+endsnippet
+
+snippet inc "c++ include" b
+#include <${1:iostream}>$0
+endsnippet
+

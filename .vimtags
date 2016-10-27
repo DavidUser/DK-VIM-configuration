@@ -1,0 +1,11 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+<c-]>	/home/david/.vimrc	/^nnoremap <c-]> :YouCompleteMe GoTo<cr>$/;"	m	language:Vim
+filetypedetect	/home/david/.vimrc	/^augroup filetypedetect$/;"	a	language:Vim
+g:UltiSnipsEditSplit	/home/david/.vimrc	/^let g:UltiSnipsEditSplit="vertical"$/;"	v	language:Vim
+g:UltiSnipsExpandTrigger	/home/david/.vimrc	/^let g:UltiSnipsExpandTrigger="<c-j>"$/;"	v	language:Vim
+g:UltiSnipsJumpBackwardTrigger	/home/david/.vimrc	/^let g:UltiSnipsJumpBackwardTrigger="<c-k>"$/;"	v	language:Vim
+g:UltiSnipsJumpForwardTrigger	/home/david/.vimrc	/^let g:UltiSnipsJumpForwardTrigger="<c-j>"$/;"	v	language:Vim
+g:ycm_autoclose_preview_window_after_completion	/home/david/.vimrc	/^let g:ycm_autoclose_preview_window_after_completion = 1$/;"	v	language:Vim
+g:ycm_global_ycm_extra_conf	/home/david/.vimrc	/^let g:ycm_global_ycm_extra_conf = '~\/.vim\/bundle\/YouCompleteMe\/cpp\/ycm\/.ycm_extra_conf.py'$/;"	v	language:Vim
+g:ycm_use_ultisnips_completer	/home/david/.vimrc	/^let g:ycm_use_ultisnips_completer = 1$/;"	v	language:Vim
+jj	/home/david/.vimrc	/^imap jj <esc>$/;"	m	language:Vim
