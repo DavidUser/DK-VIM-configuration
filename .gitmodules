@@ -1,0 +1,15 @@
+[submodule ".vim/bundle/Dockerfile.vim"]
+	path = .vim/bundle/Dockerfile.vim
+	url = https://github.com/ekalinin/Dockerfile.vim.git
+[submodule ".vim/bundle/ultisnips"]
+	path = .vim/bundle/ultisnips
+	url = https://github.com/DavidUser/ultisnips.git
+[submodule ".vim/bundle/vim-markdown"]
+	path = .vim/bundle/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
+[submodule ".vim/bundle/vim-snippets"]
+	path = .vim/bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule ".vim/bundle/YouCompleteMe"]
+	path = .vim/bundle/YouCompleteMe
+	url = https://github.com/DavidUser/YouCompleteMe.git
